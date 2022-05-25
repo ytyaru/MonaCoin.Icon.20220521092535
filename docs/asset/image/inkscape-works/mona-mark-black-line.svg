@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="256"
+   height="256"
+   viewBox="0 0 192.00017 192.00017"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg8"
+   sodipodi:docname="mona-mark-black-line.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/tmp/work/MonaCoin.Icon.20220521092535/docs/asset/image/mona-mark-black-line.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <linearGradient
+       id="linearGradient819"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop817" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview6"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="2.3166148"
+     inkscape:cx="45.559086"
+     inkscape:cy="147.13145"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <style
+     type="text/css"
+     id="style2">@media (prefers-color-scheme:light){g{fill:#000}#outline{fill:#000;}#inner{stroke:#ffce00;}}@media (prefers-color-scheme:dark){g{fill:#ffce00}#outline{fill:#ffce00;}#inner{stroke:#fff;}}</style>
+  <g
+     id="outline"
+     transform="matrix(0.02197089,0,0,-0.02197089,-14.188671,206.40622)"
+     style="fill:#000000;stroke:#ffffff;stroke-width:179.99969512;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:miter;stroke-linecap:square;fill-opacity:1">
+    <path
+       d="M 2460,6090 2115,3950 H 780 v -650 h 1232 l -5,-22 c -3,-13 -14,-76 -23,-140 l -18,-118 H 780 v -650 h 1080 l -6,-38 c -3,-20 -25,-154 -48,-297 l -42,-260 600,-3 c 329,-1 601,0 604,3 2,2 24,127 48,277 24,150 46,283 49,296 l 5,22 h 790 v 650 l -343,2 -343,3 18,115 c 10,63 20,125 23,138 l 5,22 h 640 v 650 l -268,2 -268,3 141,877 c 78,483 143,880 146,883 3,2 291,-883 640,-1968 l 635,-1972 605,-3 605,-2 633,1967 c 348,1083 636,1971 640,1975 4,4 132,-770 285,-1720 153,-950 297,-1838 319,-1974 l 40,-248 h 1209 l -6,27 c -3,16 -233,1441 -511,3168 -278,1727 -510,3168 -516,3203 l -11,62 -606,-2 -606,-3 -735,-2283 C 5827,4687 5493,3663 5489,3667 c -4,5 -337,1033 -740,2286 L 4016,8230 H 2805 Z"
+       id="inner"
+       style="stroke:#ffffff;stroke-width:179.99969512;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:miter;stroke-linecap:square;fill-opacity:1;fill:#000000"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
